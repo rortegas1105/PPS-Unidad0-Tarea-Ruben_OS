@@ -1,12 +1,12 @@
 # Actividad Unidad 0 - DevSecOps Basico y Automatizacion de la Documentacion
 
-indice 
+Esta documentación recoge los pasos realizados en la tarea de la Unidad 0: Git, GitHub Actions, Docker y publicación con MkDocs.
 
-- [Objetivo](objetivos.md)
-- [Resultados de aprendizaje y Criterios de Evaluacion](resultado)
-- [Desarrollo](desarrollo)
-- 
-[Entrega](entrega)
+## Índice
+- [Creación del repositorio](git.md)
+- [GitHub Actions](gitActions.md)
+- [GitHub Pages](gitPages.md)
+- [Docker](docker.md)
+- [Conclusiones](conclusiones.md)
 
 
-##Objetivos
