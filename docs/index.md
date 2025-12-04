@@ -2,10 +2,11 @@
 
 indice 
 
--[Objetivo](objetivos.md)
--[Resultados de aprendizaje y Criterios de Evaluacion](resultado)
--[Desarrollo](desarrollo)
--[Entrega](entrega)
+- [Objetivo](objetivos.md)
+- [Resultados de aprendizaje y Criterios de Evaluacion](resultado)
+- [Desarrollo](desarrollo)
+- 
+[Entrega](entrega)
 
 
 ##Objetivos
