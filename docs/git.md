@@ -45,6 +45,8 @@ Con el siguiente comando podemos ver el estado del repositorio y comprobar qué 
 
 
 git status
+
+
 <img width="656" height="560" alt="git-status" src="https://github.com/user-attachments/assets/b697cfc7-7b18-40ad-81b2-56b9d11ecba1" />
 
 Si queremos ver toda la estructura del proyecto, incluidos los archivos ocultos, usamos:
