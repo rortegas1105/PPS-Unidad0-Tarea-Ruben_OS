@@ -26,4 +26,5 @@ touch mkdocs.yml requirements.txt .github/workflows/CreacionDocumentacion.yml
 
 con  el comando tree podemos ver la estructura
 
-<img width="661" height="567" alt="Captura-estrutura-carpeta" src="https://github.com/user-attachments/assets/8b5505fe-3ddb-448b-a773-d84a878bc9f1" />
+
+<img width="661" height="567" alt="Captura-estrutura-carpeta" src="https://github.com/user-attachments/assets/f9b80ee8-eabe-4986-b726-80e9be14190f" />
