@@ -1,5 +1,7 @@
 # Creación del Repositorio
 
+
+
 ## 1. Creación del repositorio en GitHub
 
 Lo primero que haremos será crear un nuevo repositorio en **GitHub**.
@@ -14,11 +16,12 @@ Lo primero que haremos será crear un nuevo repositorio en **GitHub**.
 <img width="1918" height="1078" alt="Captura-repositorio" src="https://github.com/user-attachments/assets/bc0a1760-2e55-46ce-a08d-79f6b7d741fa" />
 
 
+
 ## 2. Creación de la estructura de carpetas y archivos
 
 Una vez creado el repositorio, abrimos una terminal y ejecutamos los siguientes comandos para crear la estructura de directorios:
 
-```bash
+
 mkdir -p calculator docs .github/workflows
 touch calculator/__init__.py calculator/gui.py
 touch docs/index.md docs/git.md docs/gitActions.md docs/gitPages.md docs/docker.md docs/conclusiones.md
@@ -27,4 +30,5 @@ touch mkdocs.yml requirements.txt .github/workflows/CreacionDocumentacion.yml
 con  el comando tree podemos ver la estructura
 
 
-<img width="661" height="567" alt="Captura-estrutura-carpeta" src="https://github.com/user-attachments/assets/f9b80ee8-eabe-4986-b726-80e9be14190f" />
+<img width="661" height="567" alt="Captura-estrutura-carpeta" src="https://github.com/user-attachments/assets/53dd275d-5e26-494a-91ff-c4f1a58b874c" />
+
